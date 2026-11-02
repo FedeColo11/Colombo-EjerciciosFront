@@ -1,9 +1,22 @@
 :root{
     --colorNegro:black;
     --colorVerde: #20b832;
-    --colorBlnaco:white;
+    --colorBlanco:white;
 }
+*{
+    margin: 0;
+    padding: 0
+}
+.encabezado-parte-verde{
+    background-color: var(--colorVerde);
+    display:flex;
+    flex-direction: row;
+    height: 100px;
+    margin: 0px;
+    width: 100%;
 
-.conjunto_link-secciones{
-
+}
+.foto{
+    height: 100%;
+    width: auto;
 }
