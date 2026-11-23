@@ -7,10 +7,11 @@
     --tipografiaTitulos:"Barlow Condensed", sans-serif;
     --tipografiaCuerpo:"Inter", sans-serif;
     --tamañoTipografiaHeader:1rem;
+    --tamañoTipografiaMain:1.2rem;
     --tamañoTipografiaHeaderAgrandado:1.2rem;
-    --tamañoTipografiaFooter:0.75rem;
-    --tamañoTipografiaTextoLargo:0.8rem;
-    --tamañoTipografiaMenu:0.8rem;
+    --tamañoTipografiaFooter:0.8rem;
+    --tamañoTipografiaTextoLargo:1rem;
+    --tamañoTipografiaMenu: 1.1rem;
     --grosorTipografia1:600;
     --grosorTipografia2:500;
     --grosorResaltado:700;
@@ -38,7 +39,7 @@ main {
     font-family: var(--tipografiaTitulos);
     color: var(--colorBlanco);
     font-weight:var(--grosorTipografia2);
-    font-size: var(--tamañoTipografiaHeader);
+    font-size: var(--tamañoTipografiaMain);
     padding-bottom: 1rem;
 }
 header{

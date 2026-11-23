@@ -5,7 +5,7 @@ main{
     font-family: var(--tipografiaTitulos);
     color: var(--colorBlanco);
     font-weight:var(--grosorTipografia2);
-    font-size: var(--tamañoTipografiaHeader);
+    font-size: var(--tamañoTipografiaMain);
     padding-bottom: 1rem;
     padding-top: 1rem;
 }

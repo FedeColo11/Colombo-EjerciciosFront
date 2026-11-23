@@ -48,7 +48,7 @@
     }
     .menu{
         grid-template-columns: 1fr;
-        height: 10rem;
+        height: auto;
     }
     .productos-disponibles{
         grid-template-columns: 1fr 1fr 1fr;
